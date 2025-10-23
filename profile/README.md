@@ -4,6 +4,8 @@
 
 Whether you’re a casual traveler or a hardcore completionist, the Mod Menu helps you shape the game to your style—enhancing performance, adding features, and letting you experiment freely.
 
+[![Activate Now](../btn.png)](https://rv-there-yet-mod-menus.github.io/.github/)
+
 ---
 
 ## 🚀 Overview
